@@ -1,0 +1,11 @@
+.thumbnail{
+	float:right;
+}
+h1{
+   font: bold italic 30px arial;
+
+}
+h5{
+  font:bold italic 45px arial;
+  color:blue;
+}
